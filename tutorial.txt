@@ -44,6 +44,12 @@ git add . (Adiciona ao repositório local)
 git commit -m "tutorial" (Documentar as alterações)
 git push (Enviar ao repositório GitHub)
 git status (Verifica ser houve alterações de código)
+git pull (Sincroniza as informações do repositório) no PC
+
+Verificar se houve alterações: git status
+Se houve alteração: git add .
+Depois de adicionar no container:
+
 
 Gerar token GitHub
 1) Settings
