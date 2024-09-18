@@ -5,6 +5,10 @@
 
 console.clear()
 
+// Constante
+
+const pi = 3.14
+
 // Variáveis
 let nome 
 let idade
@@ -21,3 +25,10 @@ console.log(idade)
 vip = true
 console.log(typeof(vip))
 console.log(vip)
+
+console.log(pi)
+//pi = 3.17
+
+nome = "Vitor de Assis Passos"
+
+console.log(nome)
