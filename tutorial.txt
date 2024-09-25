@@ -34,6 +34,32 @@ Lógica de programação
 - POO
 - estruturas de dados
 
+
+___________________________________
+MANDAMENTOS DA PROGRAMAÇÃO
+
+1) UX (User eXperience) - desenvolver sempre pensado na experiência do usuário.
+
+Dica de video: maior tapa que o Steve Jobs já deu em um programador
+
+2) Usar o mínimo possível de código (variáveis, operadores, comparadores, estruturas
+de controle etc) para resolver o problema (lembrar do marcapasso)
+>=
+maior                       OU                                            igual
+comparador                função lógica                                  comparador
+
+ou
+
+>
+comparador 
+
+3) Entender o problema. Não adianta sentar na frente do computador se você não sabe
+resolver o problema.
+Algorítmo ("receita do bolo")
+Conceito:
+           variáveis
+entrada - processamento - saída
+___________________________________
 GIT e GITHUB
 
 Comandos básicos do git:
