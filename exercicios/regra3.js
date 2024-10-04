@@ -7,7 +7,7 @@
 const input = require('readline-sync')
 
 // Limpar tela
-console.log()
+console.clear()
 
 // Cabeçalho
 console.log("Calculo regra de 3")

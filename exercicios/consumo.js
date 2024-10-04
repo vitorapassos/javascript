@@ -6,6 +6,9 @@
 // Importar bibliotecas
 const input = require('readline-sync')
 
+// Limpa tela
+console.clear()
+
 // Cabeçalho
 console.log("Cálculo do consumo de combustível")
 
