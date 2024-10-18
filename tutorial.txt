@@ -186,3 +186,19 @@ typeof() -> Verificar o tipo de variável
 
 
 
+
+
+switch case (uso e variável numérica (número inteiro))
+
+switch(variável){
+    case 1:
+        // código caso o valor da variável seja 1
+        break
+    case 2:
+        // código caso o valor da variável seja 2
+        break
+    defalt: 
+        //opcional, o código será executado se nenhum caso for definido
+        break
+
+}
