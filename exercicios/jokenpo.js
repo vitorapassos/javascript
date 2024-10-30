@@ -5,15 +5,21 @@
 
 // Importar Bibliotecas
 const input = require('readline-sync')
+/**
+// Limpar tela
+console.clear()
+ */
+// Variáveis
+let jogador, computador
+let opcao = 'NÃO'
+
+
+do {
 
 // Limpar tela
 console.clear()
 
-// Variáveis
-let jogador, computador
-
 // Cabeçalho
-
 console.log("_____JoKenPo_____")
 console.log("1. Pedra")
 console.log("2. Papel")
@@ -62,3 +68,5 @@ if(jogador === computador){
 } else{
     console.log("Computador VENCEU")
 }
+opcao = input.question("Deseja jogar novamente? s/n        ")
+} while (opcao === 's' || opcao === 'S');
