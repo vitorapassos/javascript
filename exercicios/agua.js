@@ -8,7 +8,7 @@ const input = require('readline-sync')
 
 // Limpar tela
 console.clear()
-
+console.log(typeof(input))
 // Cabeçalho
 console.log("Cálculo do consumo de água por dia")
 
